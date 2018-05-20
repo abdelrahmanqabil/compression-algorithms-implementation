@@ -101,9 +101,7 @@ public class scaler {
 
 		}
 		}
-//		for(int i=0 ; i<(int)q.size() ; i++)System.out.print(q.elementAt(i) + " ");
-//		System.out.println();
-//		for(int i=0 ; i<(int)inverse.size() ; i++)System.out.print(inverse.elementAt(i) + " ");
+
 		
 		for(int i=0;i<q.size();i++){
 			comp+=q.elementAt(i).toString()+" ";
